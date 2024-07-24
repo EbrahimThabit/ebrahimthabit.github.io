@@ -510,11 +510,14 @@ span {
     .contact form .input-box input {
         width: 100%;
     }
+     .home-img img {
+        width: 40vw;
+     }
 }
 
 @media(max-width:365px) {
     .home-img img {
-        width: 90vw;
+        width: 35vw;
     }
 
     .about-img umg {
