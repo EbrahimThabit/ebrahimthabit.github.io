@@ -499,6 +499,9 @@ span {
     html {
         font-size: 50%;
     }
+     .home-img img {
+        width: 35vw;
+     }
 }
 
 @media(max-width:450px) {
